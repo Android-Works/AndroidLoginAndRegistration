@@ -27,4 +27,6 @@
 
 Goto the location where wamp installed and open www folder. The default installation location of wamp would be C:/wamp. Below is the final PHP project structure we are going to create in this article.
     
-    
+![PHP file Structure](http://www.androidhive.info/wp-content/uploads/2012/01/android-login-and-registration-project-structure.png "PHP file Structure")
+
+More info visit android hive site : http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/
